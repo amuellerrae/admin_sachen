@@ -1,0 +1,4 @@
+Name Passwort
+localuser hubsi_muenchen!
+localamueller Sommer!2021!
+localroot ichliebehunde
