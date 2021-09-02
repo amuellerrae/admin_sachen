@@ -3,7 +3,7 @@ localuser hubsi_muenchen!
 localamueller ****
 localroot ****
 localadministrator wohnmobilforlive
-localadmin ichmagkatzen
+localadmin ****
 localadmin_ ***
 localuser_ bernddasbrot
 locallmaier reiaml
